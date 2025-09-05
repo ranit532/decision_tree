@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/2185206/decision_tree/mlruns/0/c776f317fc654510acd2d1d44d1765db/artifacts
+end_time: 1757075299538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c776f317fc654510acd2d1d44d1765db
+run_name: amazing-bird-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757075267709
+status: 3
+tags: []
+user_id: '2185206'

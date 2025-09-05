@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/2185206/decision_tree/mlruns/971597495210656363/models/m-23710663cc9b4d8ea6665584b881c13f/artifacts
+creation_timestamp: 1757076090898
+experiment_id: '971597495210656363'
+last_updated_timestamp: 1757076127710
+model_id: m-23710663cc9b4d8ea6665584b881c13f
+model_type: null
+name: decision_tree_model
+source_run_id: a36b8f0733644fccb403c16d2033a6ed
+status: 2
+status_message: null
